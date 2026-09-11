@@ -39,28 +39,6 @@ Sou técnica em Redes de Computadores e estou iniciando o curso de **Análise e 
 
 ---
 
-### 📊 Meus Progressos no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miwnyan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miwnyan&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miwnyan&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwnyan&theme=dracula" alt="Resumo do Perfil" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miwnyan&theme=dracula" alt="Linguagens por Repositório" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miwnyan&theme=dracula" alt="Linguagens por Commit" />
-</div>
-
----
-
 ### 🐍 Contribuições em Python
 
 <div align="center">
